@@ -1,0 +1,15 @@
+/home/gr602stmti/app/bin/Debug/net6.0/app
+/home/gr602stmti/app/bin/Debug/net6.0/app.deps.json
+/home/gr602stmti/app/bin/Debug/net6.0/app.runtimeconfig.json
+/home/gr602stmti/app/bin/Debug/net6.0/app.dll
+/home/gr602stmti/app/bin/Debug/net6.0/ref/app.dll
+/home/gr602stmti/app/bin/Debug/net6.0/app.pdb
+/home/gr602stmti/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/home/gr602stmti/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr602stmti/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/home/gr602stmti/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/home/gr602stmti/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/home/gr602stmti/app/obj/Debug/net6.0/app.dll
+/home/gr602stmti/app/obj/Debug/net6.0/ref/app.dll
+/home/gr602stmti/app/obj/Debug/net6.0/app.pdb
+/home/gr602stmti/app/obj/Debug/net6.0/app.genruntimeconfig.cache
